@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hey,
 
-Things you may want to cover:
+It works
 
-* Ruby version
+Should be live at https://guarded-gorge-86609.herokuapp.com/
 
-* System dependencies
+Try https://guarded-gorge-86609.herokuapp.com/Users
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Also https://guarded-gorge-86609.herokuapp.com/Microposts
